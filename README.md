@@ -154,5 +154,3 @@ En este proyecto se utilizó Inteligencia Artificial (Claude) como herramienta d
 - **Revisión del código**: se utilizó la IA para revisar el código en busca de posibles errores, malas prácticas o mejoras en la legibilidad y estructura del mismo.
 
 - **Diseño de la presentación**: se utilizó la IA para apoyar en la organización del contenido de la presentación oral y en la estructura de las diapositivas.
-
-**Todo el código fue escrito, comprendido y adaptado por los integrantes del equipo.** La IA se utilizó únicamente como apoyo, no como sustituto del trabajo propio. Cada línea del código fue revisada y validada por los integrantes antes de ser incluida en el proyecto.
