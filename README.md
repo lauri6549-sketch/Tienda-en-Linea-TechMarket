@@ -98,13 +98,13 @@ En resumen, `Main` llama a `GestorTechMarket`, que a su vez usa `ArrayList`, que
 
 ```
 TechMarket/
-├── README.md
 ├── src
 │   ├── Main.java
 │   ├── GestorTechMarket.java
 │   ├── Producto.java
 │   ├── ArrayList.java
 │   └── List.java
+├── README.md
 └── TechMarket_Presentación
 ```
 
